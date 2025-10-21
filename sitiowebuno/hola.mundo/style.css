@@ -1,0 +1,54 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background-color: #c8b1ed;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 1rem;
+    text-align: center
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Times New Roman', Times, serif, sans-serif;
+}
+
+a {
+    padding: 1rem;
+    text-align: center
+}
+
+button {
+    background-color: #f24ab4;
+    color: rgb(90, 63, 63);
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    shape-margin: 9cqb;
+}
+
+
+button:hover {
+    background-color: #fecaf6;
+}
